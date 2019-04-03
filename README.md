@@ -1,6 +1,6 @@
 # Work / Project Examples
 
-##Sprout
+## Sprout
 
 https://sproutapp.io/
 
@@ -14,9 +14,9 @@ Businesses can offer cash incentives to users for spending at their store by x% 
 
 My contributions to sprout on a programming aspect was that I built the entire backend. Sprout runs off of a RESTapi built in Laravel. I implemented various API’s such as Plaid, Stripe, Payment Rails, and Sendgrid.
 
-I did other aspects as well as taking part in an accelerator to teach us about marketing and business tactics and presented out product to venture capitalists.
+I did other aspects as well as taking part in an accelerator to teach us about marketing and business tactics and presented our product to venture capitalists.
 
-##Games
+## Games
 
 https://github.com/jwillz21/games
 
@@ -27,21 +27,21 @@ I made this project to implement and learn new algorithms (currently just Minima
 This is a self created project that will grow over time.
 
 
-##Bank-api
+## Bank-api
 
 https://github.com/jwillz21/bank-api
 
 This is another project that I am currently working on alone. It will end up being 1 of 3 projects that will make one running application. The whole purpose of this is to build a project using the experiences that I gained building sprouts backend and to practise frontend development and create a project I can use as an entry for a personal portfolio. It is still in its early stages and being worked on with the basic API nearly built.
 
 It will contain
-The API (laravel)
-To serve balance, transaction, and income data.
-A website (vue.js)
-Display an online banking type of interface for users to check their banking activity.
-A mobile app (React Native)
-A mobile app version similar to the website.
+1. The API (laravel)
+  * To serve balance, transaction, and income data.
+2. A website (vue.js)
+  * Display an online banking type of interface for users to check their banking activity.
+3. A mobile app (React Native)
+  * A mobile app version similar to the website.
 
-#Inspiration
+# Inspiration
 
 I love music, I love watching artists perform live. I have saw countless amounts of artists perform live from varying genres, but many of my music inspirations come from artists that are no longer alive.
 
@@ -53,15 +53,16 @@ Though this is an idea that would require a lot of time and research and skills 
 
 I came across a few articles that could use different components that could be used to achieve something like this and see if it can be done. Here are the sources.
 
-https://www.theverge.com/2016/9/12/12886698/machine-learning-video-image-prediction-mit
-TL;DR a research team at MIT create an algorithm using neural networks that can predict 32 frames of video from an image. Videos are grainy and small, but can lead to so much more in the future.
-https://www.theinquirer.net/inquirer/news/3013676/researchers-make-a-fake-obama-video-using-a-neural-network
-TL;DR researchers at University of Washington use machine learning to create a video of Obama lip syncing any audio they feed it.
+* https://www.theverge.com/2016/9/12/12886698/machine-learning-video-image-prediction-mit
+    * TL;DR a research team at MIT create an algorithm using neural networks that can predict 32 frames of video from an image. Videos are grainy and small, but can lead to so much more in the future.
+    
+* https://www.theinquirer.net/inquirer/news/3013676/researchers-make-a-fake-obama-video-using-a-neural-network
+    * TL;DR researchers at University of Washington use machine learning to create a video of Obama lip syncing any audio they feed it.
 
 
 This project inspires me because even if I don't have the processing power to do it yet or have the knowledge I figure I will learn alot along the journey of trying to build it, and I will probably start it once I finish the projects mentioned above.
 
-#Focus
+# Focus
 
 Given the time to focus on and build anything during my internship I would want to focus more on frontend web and mobile application development. Though my inspirational project is totally different from this, I would chose to focus my efforts on frontend to align with where I see the industry moving. Most of the jobs that I have come across here in calgary seem to be for fullstack and front nd developers so I would chose to focus on growing my skills in frontend development.
 
