@@ -1,6 +1,6 @@
 # Work / Project Examples
 
-## Sprout
+### Sprout
 
 https://sproutapp.io/
 
@@ -16,7 +16,7 @@ My contributions to sprout on a programming aspect was that I built the entire b
 
 I did other aspects as well as taking part in an accelerator to teach us about marketing and business tactics and presented our product to venture capitalists.
 
-## Games
+### Games
 
 https://github.com/jwillz21/games
 
@@ -27,7 +27,7 @@ I made this project to implement and learn new algorithms (currently just Minima
 This is a self created project that will grow over time.
 
 
-## Bank-api
+### Bank-api
 
 https://github.com/jwillz21/bank-api
 
@@ -69,7 +69,7 @@ Given the time to focus on and build anything during my internship I would want 
 
 # Challenge - Sing-along
 
-## The Task
+### The Task
 
 1. Parse the provided String (`song`) and create an array with
    an entry for each line of the song.
